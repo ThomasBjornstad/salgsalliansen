@@ -1,0 +1,115 @@
+@media screen and (max-width: 1366px) {
+  #landingHeaderSm {
+    font-size: 1.4em;
+  }
+  #pauseVideo {
+    margin-top: 250px;
+  }
+  .services-card {
+    width: 250px;
+  }
+  .services-card h4 {
+    font-size: 1em;
+  }
+}
+
+
+  @media screen and (max-width: 600px) {
+    /* NOTE: LANDING PAGE */
+    .services-section {
+      margin-top: -80px;
+    }
+    .parallax-window {
+      height: 0vh;
+    }
+    #careerVideo {
+      width: 100%;
+    }
+    .section-header {
+      width: 50%;
+    }
+    .services-list {
+      display: inline-block;
+      padding-top: 30px;
+    }
+    .services-list li {
+      margin-top: 10px;
+    }
+    .career-content {
+      padding-top: 10px;
+    }
+    .career-text {
+      margin-top: -20px;
+    }
+    #careerVideo {
+      padding-top: 40px;
+    }
+    .partner-icons img {
+      width: 50%;
+      height: auto;
+      margin-bottom: 40px;
+    }
+    #landingHeaderSm {
+      margin-top: 200px;
+    }
+    #landingHeaderLg {
+      font-size: 2.5em;
+      margin-bottom: -15px;
+    }
+    .about-us-first-section {
+      height: 50vh;
+    }
+    .header-section {
+      height: 90vh;
+      margin-bottom: 15px;
+      background-size: 250% !important;
+      background-position: top !important;
+    }
+    #aboutUsContent {
+      background-size: 150% !important;
+      background-position: top !important;
+    }
+    #servicesPageContent {
+      background-size: 150% !important;
+      background-position: top !important;
+    }
+    #careerText {
+      margin-top: -70px;
+      padding-right: 0;
+      padding-left: 0;
+    }
+    .karriere {
+      background-size: 150% !important;
+      background-position: top !important;
+    }
+    .position-fixed {
+      top: 30%;
+    }
+    #map {
+      height: 700px;
+    }
+    .team-member-header {
+      margin: auto;
+    }
+    .ansatte-img {
+      margin-top: -100px;
+      padding-bottom: 30px;
+    }
+    .team-member-social {
+    }
+    .team-member-pos {
+      float: none;
+      margin-right: 0;
+    }
+}
+  @media screen and (max-width: 330px) {
+    #landingHeaderSm {
+      margin-top: 110px;
+    }
+    #landingHeaderLg {
+      font-size: 2.2em;
+    }
+    #landingBtn {
+      font-size: 1em;
+    }
+  }
